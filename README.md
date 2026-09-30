@@ -1,3 +1,11 @@
+# React and TypeScript ToDo Workspace
+
+[English](README.md) | [日本語](README.ja.md)
+
+A frontend project scaffold using React, TypeScript, and Vite. Its existing README describes the Vite template and lint configuration.
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
